@@ -8114,7 +8114,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	gunkshot: {
 		num: 441,
 		accuracy: 80,
-		basePower: 120,
+		basePower: 999,
 		category: "Physical",
 		name: "Gunk Shot",
 		pp: 5,
